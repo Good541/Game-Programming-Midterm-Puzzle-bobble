@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/BGG.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/BGG.xnb","TextureProcessor","Texture2DContent",6557,960085,0.200597
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/floor.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/floor.xnb","TextureProcessor","Texture2DContent",1618,160085,0.0029921
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/GameFont.spritefont","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.186594
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/Guildeline.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/Guildeline.xnb","TextureProcessor","Texture2DContent",791,20085,0.0009642
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/ice pathtopwall.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/ice pathtopwall.xnb","TextureProcessor","Texture2DContent",12585,800085,0.0179529
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/pen.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/pen.xnb","TextureProcessor","Texture2DContent",337,10085,0.0009981
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/pen1.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/pen1.xnb","TextureProcessor","Texture2DContent",400,10085,0.0019939
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/penguinQ.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/penguinQ.xnb","TextureProcessor","Texture2DContent",1260,30085,0.0029924
+"C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/snowball.png","C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/bin/Windows/snowball.xnb","TextureProcessor","Texture2DContent",695,10085,0.0019731

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/BGG.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/floor.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/GameFont.spritefont</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/Guildeline.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/ice pathtopwall.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/pen.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/pen1.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/penguinQ.png</File>
+    <File>C:/Users/patta/Desktop/PenPop_source/Puzzle Bobble/Content/snowball.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

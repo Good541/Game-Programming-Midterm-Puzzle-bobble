@@ -1,0 +1,118 @@
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Pellet.xnb
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.exe
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.pdb
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csprojAssemblyReference.cache
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csproj.CopyComplete
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.exe
+C:\Users\patta\source\repos\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.pdb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Guildeline.xnb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Pellet.xnb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.exe
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.pdb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csproj.CopyComplete
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.exe
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.pdb
+C:\Users\patta\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.exe
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.pdb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\BGG.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Pellet.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen1.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\snowball.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\floor.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Guildeline.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\ice pathtopwall.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen.xnb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.exe
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.pdb
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User\Desktop\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csproj.CopyComplete
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\BGG.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\floor.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Guildeline.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\ice pathtopwall.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\Pellet.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen1.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Content\snowball.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.exe
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\Puzzle Bobble.pdb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csprojAssemblyReference.cache
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.csproj.CopyComplete
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.exe
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Debug\Puzzle Bobble.pdb

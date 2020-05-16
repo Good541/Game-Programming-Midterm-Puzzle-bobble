@@ -1,0 +1,33 @@
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\Ball.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\bg.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\BGG.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\floor.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\GameFont.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\Guildeline.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\ice pathtopwall.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\Pellet.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\pen.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\pen1.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\Content\snowball.xnb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Release\Pen Pop.csproj.CopyComplete
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\PenPop.exe
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\bin\Windows\x86\Release\PenPop.pdb
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Release\Pen Pop.csprojAssemblyReference.cache
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Release\PenPop.exe
+C:\Users\patta\Downloads\Compressed\Puzzle Bobble\Puzzle Bobble\obj\x86\Release\PenPop.pdb

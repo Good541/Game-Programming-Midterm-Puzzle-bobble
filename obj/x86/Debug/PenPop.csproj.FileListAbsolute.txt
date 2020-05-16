@@ -1,0 +1,68 @@
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\Ball.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\BGG.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\floor.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\Guildeline.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\ice pathtopwall.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\Pellet.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen1.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\penguinQ.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\snowball.xnb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\PenPop.exe
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\PenPop.pdb
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.csproj.CopyComplete
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.exe
+C:\Users\patta\Desktop\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.pdb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\Ball.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\bg.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\Pellet.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\BGG.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\floor.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\GameFont.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\Guildeline.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\ice pathtopwall.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\pen1.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\penguinQ.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\Content\snowball.xnb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\PenPop.exe
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\PenPop.pdb
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.csprojAssemblyReference.cache
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.csproj.CoreCompileInputs.cache
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.csproj.CopyComplete
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.exe
+D:\Game Programming\Midterm\PenPop_source\Puzzle Bobble\obj\x86\Debug\PenPop.pdb
