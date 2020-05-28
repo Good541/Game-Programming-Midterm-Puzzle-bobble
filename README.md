@@ -1,1 +1,1 @@
-Game programming midterm assignment
+Computer game programming midterm assignment
