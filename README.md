@@ -1,1 +1,1 @@
-PenPopGame
+Game programming midterm assignment
